@@ -101,6 +101,6 @@ async def repo(client, m: Message):
 
 ⚒️ لعرض اوامر السورس ارسل  {HNDLR}الاوامر
 
-📚 • قناة ابن الدورة  : @jepthon</b>
+📚 • قناة ابن الدورة  : @x02x2</b>
 """
     await m.reply(JEPM, disable_web_page_preview=True)
